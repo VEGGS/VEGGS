@@ -12,7 +12,7 @@ https://github.com/h-central
 # CONTACT
 Discord : https://discord.gg/uktMmuVhDk
 
-E-Mail  : vegg.contact@gmail.com
+vegg.contact@gmail.com
 
 <a class="github-button" href="https://www.instagram.com/vegg_imd/" aria-label="Instagram">Instagram</a>
  
