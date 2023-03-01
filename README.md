@@ -11,7 +11,7 @@ https://github.com/h-central
 <a class="github-button" href="https://discord.gg/TxRpcaneC7" aria-label="discord server">Discord server</a>
 # CONTACT
 Discord : VEGG#0101
-E-Mail  : # vegg.contact@gmail.com
+E-Mail  : vegg.contact@gmail.com
 
 <a class="github-button" href="https://www.instagram.com/vegg_imd/" aria-label="Instagram">Instagram</a>
  
