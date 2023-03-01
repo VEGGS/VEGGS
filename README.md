@@ -6,8 +6,10 @@ i'm a french Young Developper ( python , C , C++... )
 
 Owner of the French organization H-Central ( Open Source project )
 https://github.com/h-central
-<a class="github-button" href="https://discord.gg/TxRpcaneC7" aria-label="discord server">Instagram</a>
- # CONTACT
+
+
+<a class="github-button" href="https://discord.gg/TxRpcaneC7" aria-label="discord server">Discord server</a>
+# CONTACT
 Discord : VEGG#0101
 
 <a class="github-button" href="https://www.instagram.com/vegg_imd/" aria-label="Instagram">Instagram</a>
