@@ -8,7 +8,7 @@ Owner of the French organization H-Central ( Open Source project )
 https://github.com/h-central
 
 
-<a class="github-button" href="https://discord.gg/TxRpcaneC7" aria-label="discord server">Discord server</a>
+<a class="github-button" href="https://discord.gg/TxRpcaneC7" aria-label="discord server"Join the server !</a>
 # CONTACT
 Discord : https://discord.gg/uktMmuVhDk
 
