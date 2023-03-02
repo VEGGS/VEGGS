@@ -16,9 +16,10 @@ i'm a french Young Developper on ![Manjaro](https://img.shields.io/badge/Manjaro
 
 > <img src="https://img.shields.io/badge/Mail-vegg.contact@gmail.com-informational?style=for-the-badge&labelColor=000000&color=000000"/>
 
-> <img src="https://img.shields.io/badge/Twitter-@Im_Vegg-informational?style=for-the-badge&labelColor=000000&color=000000"/>
+> <img src="https://img.shields.io/badge/Twitter-@Im__Vegg-informational?style=for-the-badge&labelColor=000000&color=000000"/>
 
-> <a class="github-button" href="https://www.instagram.com/vegg_imd/" aria-label="Instagram">Instagram</a>
+> <img src="https://img.shields.io/badge/Instagram-@vegg__imd-informational?style=for-the-badge&labelColor=000000&color=000000"/>
+
 
 # TECHNOLOGY I USE
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
