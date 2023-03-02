@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @VEGG
 i'm a french Young Developper on ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-> https://vegg.site
+
 
 
 
