@@ -14,7 +14,9 @@ i'm a french Young Developper on ![Manjaro](https://img.shields.io/badge/Manjaro
 # CONTACT
 >https://discord.gg/uktMmuVhDk
 
-> vegg.contact@gmail.com
+> <img src="https://img.shields.io/badge/Mail-vegg.contact@gmail.com-informational?style=for-the-badge&labelColor=000000&color=000000"/>
+
+> <img src="https://img.shields.io/badge/Twitter-@Im_Vegg-informational?style=for-the-badge&labelColor=000000&color=000000"/>
 
 > <a class="github-button" href="https://www.instagram.com/vegg_imd/" aria-label="Instagram">Instagram</a>
 
