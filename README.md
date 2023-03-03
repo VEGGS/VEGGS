@@ -2,12 +2,12 @@
 # ABOUT ME
 
 👋 Hi, I’m @VEGG
-i'm a french Young Developper on ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+i'm a french learner on ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
 
 
 
-> Owner of the French organization H-Central ( Open Source project ) https://github.com/h-central
+> I'm the Owner of the French organization H-Central ( Open Source project ) https://github.com/h-central
 
 
  - https://discord.gg/TxRpcaneC7
