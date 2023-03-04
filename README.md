@@ -3,6 +3,7 @@
 
 👋 Hi, I’m @VEGG
 i'm a french learner on ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
 i'm a computer engineering enthusiast
 
 
