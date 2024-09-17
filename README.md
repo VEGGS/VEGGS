@@ -9,7 +9,7 @@ i'm a computer engineering enthusiast
 
 
 
-> I'm the Owner of the French organization H-Central ( Open Source project ) https://github.com/h-central
+> I'm the Owner of a inactive porject ( french ) https://github.com/h-central
 
 
  - https://discord.gg/TxRpcaneC7
@@ -20,7 +20,7 @@ i'm a computer engineering enthusiast
 
 > <img src="https://img.shields.io/badge/Twitter-@Im__Vegg-informational?style=for-the-badge&labelColor=000000&color=000000"/>
 
-> <img src="https://img.shields.io/badge/Instagram-@vegg__imd-informational?style=for-the-badge&labelColor=000000&color=000000"/>
+> <img src="https://img.shields.io/badge/Instagram-@imad.vgg-informational?style=for-the-badge&labelColor=000000&color=000000"/>
 
 
 # TECHNOLOGY I USE
